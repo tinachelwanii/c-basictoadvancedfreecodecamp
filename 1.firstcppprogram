@@ -1,0 +1,10 @@
+#include <iostream>
+
+int main() {
+
+    std::cout << "number1" << std::endl;
+    std::cout << "number2" << std::endl;
+    std::cout << "number3" << std::endl;
+
+    return 0;
+ }
